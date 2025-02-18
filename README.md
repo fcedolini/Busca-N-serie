@@ -19,12 +19,12 @@ La presentación en pantalla de los hallazgos es un listado en formato de tabla,
 ----------------------------------------------------
 Fecha de búsqueda: [fecha de hoy]
 
-ARCHIVO		NRO. SERIE
--------		----------
-texto1.txt	Nter-15496
-texto25.txt	Ngba-85235
+ARCHIVO y NRO. SERIE<br>
+---------------------<br>
+texto1.txt        Nter-15496<br>
+texto25.txt        Ngba-85235<br>
 
-Números encontrados: 2
+Números encontrados: 2<br>
 Duración de la búsqueda: 1 segundos
 
 ----------------------------------------------------
